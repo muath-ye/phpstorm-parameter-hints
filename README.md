@@ -10,7 +10,7 @@ Inserts parameter hints(type, name or both) into function calls to easily unders
 # Installation
 
 - Open VS Code and click on Extensions Icon in the Activity Bar.
-- Type **mrchetan.phpstorm-parameter-hints-in-vscode**
+- Type **muath-ye.phpstorm-parameter-hints**
 - Install the Extension Pack.
 ---
 
