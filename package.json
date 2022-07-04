@@ -1,6 +1,6 @@
 {
     "name": "phpstorm-parameter-hints",
-    "displayName": "PhpStorm Parameter Hints in VScode",
+    "displayName": "PhpStorm Parameter Hints",
     "description": "PhpStorm parameter hint for VS Code",
     "version": "1.0.0",
     "publisher": "muath-ye",
