@@ -1,8 +1,8 @@
 {
     "name": "phpstorm-parameter-hints",
-    "displayName": "PhpStorm Parameter Hints",
-    "description": "PhpStorm parameter hint for VS Code",
-    "version": "1.0.0",
+    "displayName": "PHP parameter hint",
+    "description": "PHP parameter hint like PhpStorm parameter hint for VS Code",
+    "version": "1.0.1",
     "publisher": "muath-ye",
     "engines": {
         "vscode": "^1.54.0"
@@ -37,7 +37,10 @@
         "PHPStorm Parameter Hints in VScode",
         "Parameter Hints in VS Code",
         "Parameter Hints",
-        "muath-ye"
+        "muath-ye",
+        "parameter hints",
+        "PHP parameter hint",
+        "PHP parameter hints"
     ],
     "activationEvents": [
         "onLanguage:php"
