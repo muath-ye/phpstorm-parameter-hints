@@ -1,6 +1,11 @@
 # PHP Parameter Hint for Visual Studio Code
 
-[![VS Marketplace Version](https://vsmarketplacebadge.apphb.com/version-short/MrChetan.phpstorm-parameter-hints-in-vscode.svg)](https://marketplace.visualstudio.com/items?itemName=MrChetan.phpstorm-parameter-hints-in-vscode)
+
+### Note
+
+_This repository is a fork of the original extension [mrchetan/phpstorm-parameter-hints-in-vscode](https://github.com/mrchetan/phpstorm-parameter-hints-in-vscode)_  
+
+[![VS Marketplace Version](https://vsmarketplacebadge.apphb.com/version-short/muath-ye.phpstorm-parameter-hints.svg)](https://marketplace.visualstudio.com/items?itemName=muath-ye.phpstorm-parameter-hints)
 
 ![PhpStorm Parameter Hints in VScode Screenshot](Screenshot.png)
 
@@ -70,4 +75,3 @@ You can change the default foreground and background colors in the `workbench.co
 
 **Enjoy Chetan's Extension Pack!**
 
-[Contact Mr Chetan](https://mrchetan.com/)
